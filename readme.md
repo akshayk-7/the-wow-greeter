@@ -22,11 +22,11 @@ This is my very first CLI Project with Node.js.
 
 If you want to test this CLI on your own machine, follow these steps:
 
-1 **Clone the repository** : ``` bash  git clone https://github.com/akshayk-7/the-wow-greeter.git 
+1 **Clone the repository** : ```  git clone https://github.com/akshayk-7/the-wow-greeter.git 
                                         cd the-wow-greeter ```
 
-2 **Install the dependencies** : ```bash  npm install ```
+2 **Install the dependencies** : ```  npm install ```
 
-3 **Link the CLI globally**: ```bash npm link ```
+3 **Link the CLI globally**: ``` npm link ```
 
-4. **Run the CLI** : ```bash wow-greeter ```
+4. **Run the CLI** : ``` wow-greeter ```
